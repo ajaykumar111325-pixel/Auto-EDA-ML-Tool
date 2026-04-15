@@ -3,7 +3,7 @@
 An interactive web application built with **Streamlit** that allows users to perform automated data cleaning, exploratory data analysis (EDA), and machine learning model training without writing a single line of code.
 
 ## 🚀 Features
-* **Smart Data Upload:** Supports CSV and Excel formats.
+* **Smart Data Upload:** Supports CSV formats.
 * **Automated Data Cleaning:** One-click removal of duplicates and handling of missing values.
 * **Column Insights:** Statistical breakdown of numeric and categorical data (Mean, Median, Skewness, etc.).
 * **Outlier Detection:** Automatically identifies outliers using the IQR method.
